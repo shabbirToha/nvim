@@ -6,7 +6,7 @@ return {
 			numbers = "ordinal",
 			modified_icon = "",
 			color_icons = true,
-			separator_style = "slant", -- You can use: "slant", "thick", "thin", etc.
+			separator_style = "thin", -- You can use: "slant", "thick", "thin", etc.
 			show_buffer_close_icons = true,
 			show_close_icon = false,
 			diagnostics = "nvim_lsp",
